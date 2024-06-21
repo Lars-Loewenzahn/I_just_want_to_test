@@ -1,0 +1,5 @@
+def fuck()
+  print("F**k")
+
+if __name__ == "main":
+  fuck()
